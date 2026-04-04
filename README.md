@@ -34,3 +34,18 @@ This project features a unique spider-themed design where the clock hands are cr
 ---
 
 
+## 👨‍💻 Author
+**Piyush Soni**  
+💻 Web Developer  
+
+---
+
+## 📌 About Project
+This project was created to showcase creativity in UI design and JavaScript-based real-time functionality.  
+It combines design, animation, and logic to create a unique user experience.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
+
+
