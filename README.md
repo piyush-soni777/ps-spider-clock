@@ -12,7 +12,7 @@ This project features a unique spider-themed design where the clock hands are cr
 
 ## ✨ Features
 - 🕷️ Unique Spider-themed clock design   
-- 🕒 Real-time analog clock functionality  
+- 🕒 Real-time analog clock functionality   
 - 🎨 Smooth animations and visual effects   
 - ⚡ Fully powered by JavaScript  
 - 📱 Responsive design  
