@@ -9,6 +9,8 @@ This project features a unique spider-themed design where the clock hands are cr
 🔗 https://ps-spider-clock.netlify.app
 
 ---
+![clock](https://github.com/user-attachments/assets/2eea4db1-6eb2-472b-9280-11040eda6c1b)
+---
 
 ## ✨ Features
 - 🕷️ Unique Spider-themed clock design   
