@@ -22,8 +22,8 @@ This project features a unique spider-themed design where the clock hands are cr
 ---
 
 ## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
+- HTML
+- CSS
 - JavaScript  
 
 ---
