@@ -1,6 +1,6 @@
 # 🕷️ Spider Clock
 
-Spider Clock is a creative and visually stunning analog clock built using HTML, CSS, and JavaScript.  
+Spider Clock is a creative and visually stunning analog clock built using HTML, CSS, and JavaScript.    
 This project features a unique spider-themed design where the clock hands are creatively integrated with a spider and web animation.
 
 ---
